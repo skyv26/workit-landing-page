@@ -10,6 +10,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "babel-eslint": "10.x",
+    "eslint": "7.x",
+    "eslint-config-airbnb-base": "14.x",
+    "eslint-plugin-import": "2.x",
     "hint": "7.x",
     "postcss": "^8.4.27",
     "stylelint": "13.x",
